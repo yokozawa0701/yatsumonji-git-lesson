@@ -137,3 +137,18 @@ a {
   grid-template-columns: repeat(3, 1fr);
   gap: 24px;
 }
+
+.works-item {
+  padding: 0 0 24px 24px;
+  border-left: 3px solid var(--color-main);
+}
+
+.works-date {
+  font-size: 14px;
+  color: #888;
+}
+
+.works-title {
+  margin-bottom: 4px;
+  font-size: 18px;
+}
