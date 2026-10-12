@@ -165,3 +165,14 @@ a {
   background-color: var(--color-text);
   text-align: center;
 }
+
+html {
+  scroll-behavior: smooth;
+}
+
+.page-top {
+  display: inline-block;
+  margin-bottom: 8px;
+  font-size: 14px;
+  color: var(--color-white);
+}
