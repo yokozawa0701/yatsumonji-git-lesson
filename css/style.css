@@ -131,3 +131,9 @@ a {
   margin-bottom: 8px;
   color: var(--color-main);
 }
+
+.skills-list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+}
