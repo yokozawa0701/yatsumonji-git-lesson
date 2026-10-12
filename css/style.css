@@ -191,4 +191,8 @@ html {
     flex-direction: column;
     text-align: center;
   }
+
+  .skills-list {
+    grid-template-columns: 1fr;
+  }
 }
