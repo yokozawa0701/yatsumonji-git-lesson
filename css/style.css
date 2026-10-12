@@ -22,3 +22,21 @@ img {
   display: block;
   max-width: 100%;
 }
+
+:root {
+  --color-main: #2b6cb0;
+  --color-text: #333;
+  --color-bg: #f7f7f5;
+  --color-white: #fff;
+}
+
+body {
+  font-family: "Hiragino Sans", "Noto Sans JP", sans-serif;
+  line-height: 1.8;
+  color: var(--color-text);
+  background-color: var(--color-bg);
+}
+
+a {
+  color: var(--color-main);
+}
