@@ -186,4 +186,9 @@ html {
   .nav-list {
     gap: 16px;
   }
+
+  .about {
+    flex-direction: column;
+    text-align: center;
+  }
 }
