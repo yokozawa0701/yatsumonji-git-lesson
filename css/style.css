@@ -80,3 +80,12 @@ a {
   display: flex;
   gap: 24px;
 }
+
+.nav-list a {
+  color: var(--color-text);
+  text-decoration: none;
+}
+
+.nav-list a:hover {
+  color: var(--color-main);
+}
