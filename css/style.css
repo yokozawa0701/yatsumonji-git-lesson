@@ -58,3 +58,14 @@ a {
   color: var(--color-main);
   border-bottom: 2px solid var(--color-main);
 }
+
+.header {
+  padding: 16px 0;
+  background-color: var(--color-white);
+  border-bottom: 1px solid #e2e2e2;
+}
+
+.logo {
+  font-size: 22px;
+  font-weight: bold;
+}
